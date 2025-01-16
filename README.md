@@ -8,6 +8,7 @@ I'm Adam, nice to meet you! Below are some facts about me.
 - Fun fact: My friends and I have uploaded a game called "Chronoclone" onto Steam, go check it out!
 
 As of now, I am currently working on a game using Unreal Engine, but what the game is about is a secret 🤫
+I am also working on learning how to navigate the Command Line
 
 ### 📫 You can reach me through discord at adamelon0_0
 
