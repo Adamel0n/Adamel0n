@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Adamel0n
+## 👋 Hey There
+
+I'm Adam, nice to meet you! Below are some facts about me.
+
 - 👀 I’m interested in video game design and programming
 - 🌱 I’m currently learning Java, C#, Unity, and Unreal Engine
 - 📫 You can reach me through discord at adamelon0_0
